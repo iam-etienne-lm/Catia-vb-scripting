@@ -7,6 +7,8 @@ C:\Program Files\Dassault Systemes\B21\win_b64\code\bin
 https://community.spiceworks.com/how_to/2035-run-vbs-from-notepad
 ## VB.net
 https://openclassrooms.com/courses/apprenez-a-programmer-en-vb-net
+http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf
+https://sourceforge.net/projects/sharpdevelop/
 ## VB6
 ## VBA
 ### EXCEL
