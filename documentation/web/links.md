@@ -10,3 +10,7 @@ https://openclassrooms.com/courses/apprenez-a-programmer-en-vb-net
 ## VB6
 ## VBA
 ### EXCEL
+
+# links for other stuff
+## agile demo 
+https://blog.azendoo.com/agile-project-management-methodology-explained/
