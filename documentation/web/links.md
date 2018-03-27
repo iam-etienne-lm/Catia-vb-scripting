@@ -16,3 +16,8 @@ https://sourceforge.net/projects/sharpdevelop/
 # links for other stuff
 ## agile demo 
 https://blog.azendoo.com/agile-project-management-methodology-explained/
+## Catia User defined fonction
+http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20User-Defined%20Feature
+
+## Genie civil
+https://pastel.archives-ouvertes.fr/tel-01218303/file/%5BBleyer%5D%20Methodes%20numeriques%20pour%20le%20calcul%20%C3%A0%20la%20rupture%20des%20structures%20de%20genie%20civil.pdf
