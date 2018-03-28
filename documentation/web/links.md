@@ -21,3 +21,7 @@ http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20Use
 
 ## Genie civil
 https://pastel.archives-ouvertes.fr/tel-01218303/file/%5BBleyer%5D%20Methodes%20numeriques%20pour%20le%20calcul%20%C3%A0%20la%20rupture%20des%20structures%20de%20genie%20civil.pdf
+
+## Knowledge
+https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules
+https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986
