@@ -25,3 +25,6 @@ https://pastel.archives-ouvertes.fr/tel-01218303/file/%5BBleyer%5D%20Methodes%20
 ## Knowledge
 https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules
 https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986
+
+## AM
+http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf
