@@ -11,6 +11,8 @@ http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf
 https://sourceforge.net/projects/sharpdevelop/
 ## VB6
 ## VBA
+### IOR
+https://v5vb.wordpress.com/2010/01/27/insert-object-resolution/#more-186
 ### EXCEL
 
 # links for other stuff
