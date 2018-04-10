@@ -11,6 +11,8 @@ http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf
 https://sourceforge.net/projects/sharpdevelop/
 ## VB6
 ## VBA
+## VBS
+Error test http://www.coe.org/p/fo/et/thread=12200
 ### Macro
 use case http://www.eng-tips.com/viewthread.cfm?qid=367929
 ### IOR
