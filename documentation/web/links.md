@@ -35,3 +35,6 @@ Knowledge template http://www.cad-magazine.com/sites/default/files/trucs/pdf/les
 
 ## AM
 http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf
+# Tools IDE Console
+## IDE + Console
+https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process
