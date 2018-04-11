@@ -38,3 +38,5 @@ http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf
 # Tools IDE Console
 ## IDE + Console
 https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process
+## MSO DEVELOPPER MODE
+https://msdn.microsoft.com/en-us/library/ms269003.aspx
