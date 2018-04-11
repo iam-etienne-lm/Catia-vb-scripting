@@ -1,10 +1,13 @@
-# links for catvb
+# links for catvb CODE
 ## Catia VB
 https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/
 ## libraries
 C:\Program Files\Dassault Systemes\B21\win_b64\code\bin
 ## vbs
 https://community.spiceworks.com/how_to/2035-run-vbs-from-notepad
+https://feoh.org/2010/03/31/windows-scripting-a-vbscript-survival-guide/
+Error test http://www.coe.org/p/fo/et/thread=12200
+https://feoh.org/2010/03/31/windows-scripting-a-vbscript-survival-guide/
 ## VB.net
 https://openclassrooms.com/courses/apprenez-a-programmer-en-vb-net
 http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf
@@ -12,7 +15,7 @@ https://sourceforge.net/projects/sharpdevelop/
 ## VB6
 ## VBA
 ## VBS
-Error test http://www.coe.org/p/fo/et/thread=12200
+
 ### Macro
 use case http://www.eng-tips.com/viewthread.cfm?qid=367929
 ### IOR
