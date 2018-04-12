@@ -14,6 +14,7 @@ http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf
 https://sourceforge.net/projects/sharpdevelop/
 ## VB6
 ## VBA
+add cmd shortcut with &modifyname https://stackoverflow.com/questions/12933279/how-to-comment-and-uncomment-blocks-of-code-in-the-office-vba-editor?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 ## VBS
 
 ### Macro
