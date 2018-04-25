@@ -10,7 +10,7 @@ Dim products1 As Products
 Set products1 = product1.Products
 
 Dim product2 As Product
-Set product2 = products1.AddNewComponent("Part", "y005" + Str(Math.Rnd(100))
+Set product2 = products1.AddNewComponent("Part", "y005" + Str(Math.Rnd(100)))
 
 Set bodies1 = part1.Bodies
 
