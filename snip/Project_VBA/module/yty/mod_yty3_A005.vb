@@ -1,14 +1,44 @@
 Sub CATMain()
 
+' Case 0 in product
+
+' Dim productDocument1 As ProductDocument
+' Set productDocument1 = CATIA.ActiveDocument
+
+' Dim product1 As Product
+' Set product1 = productDocument1.Product
+
+' Dim products1 As Products
+' Set products1 = product1.Products
+
+' Dim product2 As Product
+' Set product2 = products1.AddNewComponent("Part", "y001")
+
+Dim productDocument1 As ProductDocument
+Set productDocument1 = CATIA.ActiveDocument
+
+Dim product1 As Product
+Set product1 = productDocument1.Product
+
+Dim products1 As Products
+Set products1 = product1.Products
+
+        'KNOWN UNRESOLVED ERROR ADDNEWCOMPONENT
+Dim product2 As Product
+On Error Resume Next
+Set product2 = products1.AddNewComponent("Part", "y002")
+MsgBox Err.Description
+On Error GoTo 0
+
 'CASE 1 = Creates a new part
 ' Set documents1 = CATIA.Documents
 ' Set partDocument1 = documents1.Add("Part")
 
 'CASE2 = Run in Existing part
-Dim partDocument1 As PartDocument
-Set partDocument1 = CATIA.ActiveDocument
+' Dim partDocument1 As PartDocument
+' Set partDocument1 = CATIA.ActiveDocument
 
-Set part1 = partDocument1.Part
+' Set part1 = partDocument1.Part
 
 Set bodies1 = part1.Bodies
 
