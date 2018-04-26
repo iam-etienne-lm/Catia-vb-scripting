@@ -3,18 +3,19 @@
 [external Catia vba GUI](https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/)  
 [v5vb programs](https://v5vb.wordpress.com/2010/03/14/deploying-programs/)
 ## libraries
-Local path to find a library  
+Local path to find a library
 
-    C:\Program Files\Dassault Systemes\B21\win_b64\code\bin this is not necessary when using VBA inside Catia
+    C:\Program Files\Dassault Systemes\B21\win_b64\code\bin
+this is not necessary when using VBA inside Catia
 ## vbs
-https://community.spiceworks.com/how_to/2035-run-vbs-from-notepad
-https://feoh.org/2010/03/31/windows-scripting-a-vbscript-survival-guide/
-Error test http://www.coe.org/p/fo/et/thread=12200
-https://feoh.org/2010/03/31/windows-scripting-a-vbscript-survival-guide/
+        vbs is an autonomous script. Similar to a bat
+[notepad4VBS](https://community.spiceworks.com/how_to/2035-run-vbs-from-notepad)  
+[win-vb_survival guide](https://feoh.org/2010/03/31/windows-scripting-a-vbscript-survival-guide/)  
+[Error test](http://www.coe.org/p/fo/et/thread=12200)  
 ## VB.net
-https://openclassrooms.com/courses/apprenez-a-programmer-en-vb-net
-http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf
-https://sourceforge.net/projects/sharpdevelop/
+[openC vbnet 2010 full guide](https://openclassrooms.com/courses/apprenez-a-programmer-en-vb-net)  
+[openC vbnet pdf](http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf)  
+[Sharp open source ide - not working portable](https://sourceforge.net/projects/sharpdevelop/)  
 ## VB6
 ## VBA
 add cmd shortcut with &modifyname https://stackoverflow.com/questions/12933279/how-to-comment-and-uncomment-blocks-of-code-in-the-office-vba-editor?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
