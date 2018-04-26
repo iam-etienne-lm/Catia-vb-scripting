@@ -3,7 +3,7 @@
 [external Catia vba GUI](https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/)  
 [v5vb programs](https://v5vb.wordpress.com/2010/03/14/deploying-programs/)
 ## libraries
-Local path to find a library    C:\Program Files\Dassault Systemes\B21\win_b64\code\bin this is not necessary when using VBA inside Catia
+Local path to find a library    C:\Program Files\Dassault Systemes\B21\win_b64\code\bin      this is not necessary when using VBA inside Catia
 ## vbs
 https://community.spiceworks.com/how_to/2035-run-vbs-from-notepad
 https://feoh.org/2010/03/31/windows-scripting-a-vbscript-survival-guide/
