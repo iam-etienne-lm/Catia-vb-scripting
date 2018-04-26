@@ -36,10 +36,6 @@ this is not necessary when using VBA.6 inside Catia
 [openC vbnet pdf](http://user.oc-static.com/pdf/134798-apprenez-a-programmer-en-vb-net.pdf)  
 [Sharp open source ide - not working portable](https://sourceforge.net/projects/sharpdevelop/)  
 
-
-### EXCEL
-
-# links for other stuff
 ## agile demo 
 [agile methodology](https://blog.azendoo.com/agile-project-management-methodology-explained/)  
 
