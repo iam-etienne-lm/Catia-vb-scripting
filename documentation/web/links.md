@@ -18,34 +18,32 @@ this is not necessary when using VBA inside Catia
 [Sharp open source ide - not working portable](https://sourceforge.net/projects/sharpdevelop/)  
 ## VB6
 ## VBA
-add cmd shortcut with &modifyname https://stackoverflow.com/questions/12933279/how-to-comment-and-uncomment-blocks-of-code-in-the-office-vba-editor?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
-VBA vs KWA  http://www.coe.org/p/fo/et/thread=28577
-
-
+[add cmd shortcut with &modifyname](https://stackoverflow.com/questions/12933279/how-to-coment-and-uncomment-blocks-of-code-in-the-office-vba-editor?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
+[VBA vs KWA](http://www.coe.org/p/fo/et/thread=28577)  
 ### Macro
-use case http://www.eng-tips.com/viewthread.cfm?qid=367929
+[use case](http://www.eng-tips.com/viewthread.cfm?qid=367929)  
 ### IOR
-https://v5vb.wordpress.com/2010/01/27/insert-object-resolution/#more-186
+[v5vb ior](https://v5vb.wordpress.com/2010/01/27/insert-object-resolution/#more-186)
 ### EXCEL
 
 # links for other stuff
 ## agile demo 
-https://blog.azendoo.com/agile-project-management-methodology-explained/
+[agile methodology](https://blog.azendoo.com/agile-project-management-methodology-explained/)  
 ## Catia User defined fonction
-http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20User-Defined%20Feature
+[User defined feature guide](http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20User-Defined%20Feature)  
 
 ## Genie civil
-https://pastel.archives-ouvertes.fr/tel-01218303/file/%5BBleyer%5D%20Methodes%20numeriques%20pour%20le%20calcul%20%C3%A0%20la%20rupture%20des%20structures%20de%20genie%20civil.pdf
+[rdm structural limit ](https://pastel.archives-ouvertes.fr/tel-01218303/file/%5BBleyer%5D%20Methodes%20numeriques%20pour%20le%20calcul%20%C3%A0%20la%20rupture%20des%20structures%20de%20genie%20civil.pdf)  
 
 ## Knowledge
-https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules
-https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986
-Knowledge template http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf
+[Catia rules case](https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules)  
+[Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
+[Knowledge template ](http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf)  
 
 ## AM
-http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf
+[Additive Manufacturing complete workflow](http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf)  
 # Tools IDE Console
 ## IDE + Console
-https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process
+[monitoring variables](https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process)  
 ## MSO DEVELOPPER MODE
-https://msdn.microsoft.com/en-us/library/ms269003.aspx
+[MSO dev info](https://msdn.microsoft.com/en-us/library/ms269003.aspx)  
