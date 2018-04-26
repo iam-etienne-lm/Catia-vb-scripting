@@ -1,4 +1,5 @@
 # links for catvb CODE
+Index of websites to understand the tech around vb. Vb is the common denominator of any windows platform alike Bat for Ms-dos. Vb has various forms and generations: vb6 is oldest pre-2010 whereas vb.net is up to date - meaning ok for web/winXapp/support. Vb can be autonomous and can be reduced to an exec. Otherwise what interest us here is a VbaProject containing UI, libraries, modules.
 ## Catia VB general info
 [external Catia vba GUI](https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/)  
 [v5vb programs](https://v5vb.wordpress.com/2010/03/14/deploying-programs/)
