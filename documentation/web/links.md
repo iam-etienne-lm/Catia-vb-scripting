@@ -1,8 +1,7 @@
 # links for catvb CODE
 ## Catia VB general info
-
-https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/
-https://v5vb.wordpress.com/2010/03/14/deploying-programs/
+  https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/
+  https://v5vb.wordpress.com/2010/03/14/deploying-programs/
 ## libraries
 C:\Program Files\Dassault Systemes\B21\win_b64\code\bin
 ## vbs
