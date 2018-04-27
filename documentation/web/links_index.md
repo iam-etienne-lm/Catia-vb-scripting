@@ -2,9 +2,10 @@
 Index of websites to understand the tech around vb. Vb is the common denominator of any windows platform alike Bat for Ms-dos. Vb has various forms and generations: vb6 is oldest pre-2010 whereas vb.net is up to date with new UI - meaning ok for web/winXapp/support. Vb can be autonomous and can be reduced to an exec. Otherwise what interest us here is a VbaProject containing UI, libraries, modules.
 ## Catia VBA general info
 [external Catia vba GUI](https://apprendre-la-cao.com/comment-faire-une-premiere-application-catia-v5-vb-net/)  
-[v5vb programs](https://v5vb.wordpress.com/2010/03/14/deploying-programs/)
+[v5vb programs](https://v5vb.wordpress.com/2010/03/14/deploying-programs/)  
 [add cmd shortcut with &modifyname](https://stackoverflow.com/questions/12933279/how-to-coment-and-uncomment-blocks-of-code-in-the-office-vba-editor?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
 [VBA vs KWA](http://www.coe.org/p/fo/et/thread=28577)  
+[script guide 4V5](http://www.scripting4v5.com/additional-articles/catia-macro-selection/)  
 ### IDE + Console
 [monitoring variables](https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process)  
 ### error management
