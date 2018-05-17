@@ -6,6 +6,9 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [add cmd shortcut with &modifyname](https://stackoverflow.com/questions/12933279/how-to-coment-and-uncomment-blocks-of-code-in-the-office-vba-editor?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)  
 [VBA vs KWA](http://www.coe.org/p/fo/et/thread=28577)  
 [script guide 4V5](http://www.scripting4v5.com/additional-articles/catia-macro-selection/)  
+## CVBA start
+[Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)
+
 ### IDE + Console
 [monitoring variables](https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process)  
 ### error management
