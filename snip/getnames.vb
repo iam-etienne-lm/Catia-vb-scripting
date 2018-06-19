@@ -24,7 +24,7 @@ intPartcount = CATIA.ActiveDocument.Product.Products.Count
 'intPartcount = 10
 
 Dim strNewname As String
-strNewname = "changedname1" & intPartcount
+strNewname = "changedname1" & (intPartcount+1)
 
 Dim i As Integer
 For i = 1 To intPartcount
