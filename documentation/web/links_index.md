@@ -9,7 +9,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [vba guide & cheat sheet](https://analystcave.com/vba-collection/)  
 [MSDN 2008 doc](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/h7bfkxc1(v=vs.90))   
 ## CVBA start
-[Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/) 
+[Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)  
 [Assembly and moving parts](http://catiadoc.free.fr/online/CAAScdPstUseCases/CAAPstAddComponent.htm) 
 
 ### IDE + Console
