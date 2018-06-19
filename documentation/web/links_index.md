@@ -7,6 +7,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [VBA vs KWA](http://www.coe.org/p/fo/et/thread=28577)  
 [script guide 4V5](http://www.scripting4v5.com/additional-articles/catia-macro-selection/)  
 [vba guide & cheat sheet](https://analystcave.com/vba-collection/)
+[MSDN 2008 doc](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/h7bfkxc1(v=vs.90))
 ## CVBA start
 [Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)
 
