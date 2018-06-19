@@ -10,6 +10,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [MSDN 2008 doc](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/h7bfkxc1(v=vs.90))   
 ## CVBA start
 [Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)
+[Assembly and moving parts](http://catiadoc.free.fr/online/CAAScdPstUseCases/CAAPstAddComponent.htm) 
 
 ### IDE + Console
 [monitoring variables](https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process)  
