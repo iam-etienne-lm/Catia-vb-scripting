@@ -60,3 +60,6 @@ this is not necessary when using VBA.6 inside Catia
 
 ## MSO DEVELOPPER MODE
 [MSO dev info](https://msdn.microsoft.com/en-us/library/ms269003.aspx)  
+
+## Other
+[NPP++ NPPEXPORT x64 plugin](https://sourceforge.net/projects/npp-plugins/files/NppExec/NppExec%20Plugin%20v0.5.9.9%20dev/)
