@@ -1,21 +1,18 @@
 Option Explicit
 
 Sub CATMain()
-'v000 scratched work in progress
-'Declaration ok
-'init error Line 204
 
 Dim specsAndGeomWindow1 As SpecsAndGeomWindow
 Set specsAndGeomWindow1 = CATIA.ActiveWindow
 
-Dim productdocument1, product1, product2, products1 As Product
+Dim productdocument1 As Product, product1 As Product, product2 As Product, products1 As Product
 
 Set productdocument1 = CATIA.ActiveDocument
 Set product1 = productdocument1.Product
 Set products1 = product1.Products
 Set product2 = products1.Item("Part1.1")
 
-Dim degrad, Xrot, Yrot, Zrot As Double
+Dim degrad As Double, Xrot As Double, Yrot As Double, Zrot As Double
 degrad = 0.01745 ''This used to convert degrees to radians which is what Catia uses
 
 'Dim Xrot
@@ -61,8 +58,8 @@ Else
 End If
 
 'MsgBox Zrot
-Dim move1, move2, move3 As Move
-Dim arrayx(11), arrayy(11), arrayz(11) As Double
+Dim move1 As Move, move2 As Move, move3 As Move
+Dim arrayx(11) As Double, arrayy(11) As Double, arrayz(11) As Double
 'Dim arrayy(11)
 'Dim arrayz(11)
 
@@ -72,8 +69,8 @@ If (Xrot <> 1 And Xrot > 0) Then
 
     MsgBox "In X positive rotation"
 
-    Set move1 = product2.Move
-    Set move1 = move1.MovableObject
+'    Set move1 = product2.Move
+'    Set move1 = move1.MovableObject
 
     arrayx(0) = 1
     arrayx(1) = 0
@@ -90,7 +87,8 @@ If (Xrot <> 1 And Xrot > 0) Then
     arrayx(9) = 0#
     arrayx(10) = 0#
     arrayx(11) = 0#
-    move1.Apply arrayx
+'    move1.Apply arrayx
+    product2.Move.Apply arrayx
 
 End If
 
@@ -98,8 +96,8 @@ If Xrot <> 1 And Xrot < 0 Then
 
     MsgBox "In X negative rotation"
 
-    Set move1 = product2.Move
-    Set move1 = move1.MovableObject
+'    Set move1 = product2.Move
+'    Set move1 = move1.MovableObject
 
     arrayx(0) = 1
     arrayx(1) = 0
@@ -116,8 +114,8 @@ If Xrot <> 1 And Xrot < 0 Then
     arrayx(9) = 0#
     arrayx(10) = 0#
     arrayx(11) = 0#
-    move1.Apply arrayx
-
+'    move1.Apply arrayx
+    product2.Move.Apply arrayx
 End If
 
 '**************************************
@@ -126,8 +124,8 @@ If Yrot <> 1 And Yrot > 0 Then
 
     MsgBox "In Y positive rotation"
 
-    Set move2 = product2.Move
-    Set move2 = move2.MovableObject
+'    Set move2 = product2.Move
+'    Set move2 = move2.MovableObject
 
     arrayy(0) = Yrot
     arrayy(1) = 0
@@ -144,7 +142,8 @@ If Yrot <> 1 And Yrot > 0 Then
     arrayy(9) = 0#
     arrayy(10) = 0#
     arrayy(11) = 0#
-    move2.Apply arrayy
+'    move2.Apply arrayy
+    product2.Move.Apply arrayy
 
 End If
 
@@ -152,8 +151,8 @@ If Yrot <> 1 And Yrot < 0 Then
 
     MsgBox "In Y negative rotation"
 
-    Set move2 = product2.Move
-    Set move2 = move2.MovableObject
+'    Set move2 = product2.Move
+'    Set move2 = move2.MovableObject
 
 
     arrayy(0) = -Yrot
@@ -171,7 +170,8 @@ If Yrot <> 1 And Yrot < 0 Then
     arrayy(9) = 0#
     arrayy(10) = 0#
     arrayy(11) = 0#
-    move2.Apply arrayy
+'    move2.Apply arrayy
+    product2.Move.Apply arrayy
 
 End If
 
@@ -181,8 +181,8 @@ If Zrot <> 1 And Zrot > 0 Then
 
     MsgBox "In Z positive rotation"
 
-    Set move3 = product2.Move
-    Set move3 = move3.MovableObject
+    'Set move3 = product2.Move
+    'Set move3 = move3.MovableObject
 
 
     arrayz(0) = Zrot
@@ -200,16 +200,17 @@ If Zrot <> 1 And Zrot > 0 Then
     arrayz(9) = 0#
     arrayz(10) = 0#
     arrayz(11) = 0#
-    move3.Apply arrayz
-
+    'move3.Apply arrayz
+    product2.Move.Apply arrayz
+    
 End If
 
 If Zrot <> 1 And Zrot < 0 Then
 
     MsgBox "In Z negative rotation"
 
-    Set move3 = product2.Move
-    Set move3 = move3.MovableObject
+    ' Set move3 = product2.Move
+    ' Set move3 = move3.MovableObject
 
 
     arrayz(0) = -Zrot
@@ -227,9 +228,11 @@ If Zrot <> 1 And Zrot < 0 Then
     arrayz(9) = 0#
     arrayz(10) = 0#
     arrayz(11) = 0#
-    move3.Apply arrayz
+    ' move3.Apply arrayz
+    product2.Move.Apply arrayz
 
 End If
 
 
 End Sub
+
