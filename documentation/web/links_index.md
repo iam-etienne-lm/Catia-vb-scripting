@@ -9,8 +9,8 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [vba guide & cheat sheet](https://analystcave.com/vba-collection/)  
 [MSDN 2008 doc](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/h7bfkxc1(v=vs.90))  
 [Catia automation generic documentation](http://yvonet.florent.free.fr/SERVEUR/COURS%20CATIA/CATIA%20Infrastructure/VBA_A/Teacher/EDU_CAT_EN_VBA_AI_V5R19_toprint.pdf)    
-[catscript & catvb are late bound unlike vba](https://www.eng-tips.com/viewthread.cfm?qid=370996) 
-[datum vba](http://www.maruf.ca/files/caadoc/CAAScdGsiUseCases/CAAGsiCreatePtLnAndConvertToDatum.htm)   
+[catscript & catvb are late bound unlike vba](https://www.eng-tips.com/viewthread.cfm?qid=370996)   
+
 
 ## CVBA start
 [Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)  
@@ -18,7 +18,8 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [3D matrix movement](http://www.coe.org/p/fo/et/thread=15346)   
 [clash evocation](https://stackoverflow.com/questions/34761639/is-it-possible-to-move-a-part-with-repect-to-constraints-in-product-using-catia) 
 [UI selection element3](https://www.eng-tips.com/viewthread.cfm?qid=427742)  
-[hybridgeometry guide](http://www.scripting4v5.com/additional-articles/geometry-creation-macro/)
+[hybridgeometry guide](http://www.scripting4v5.com/additional-articles/geometry-creation-macro/)    
+[datum vba](http://www.maruf.ca/files/caadoc/CAAScdGsiUseCases/CAAGsiCreatePtLnAndConvertToDatum.htm)   
 
 ### IDE + Console
 [monitoring variables](https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process)  
