@@ -10,6 +10,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [MSDN 2008 doc](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/h7bfkxc1(v=vs.90))  
 [Catia automation generic documentation](http://yvonet.florent.free.fr/SERVEUR/COURS%20CATIA/CATIA%20Infrastructure/VBA_A/Teacher/EDU_CAT_EN_VBA_AI_V5R19_toprint.pdf)    
 [catscript & catvb are late bound unlike vba](https://www.eng-tips.com/viewthread.cfm?qid=370996) 
+[datum vba](http://www.maruf.ca/files/caadoc/CAAScdGsiUseCases/CAAGsiCreatePtLnAndConvertToDatum.htm)   
 
 ## CVBA start
 [Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)  
