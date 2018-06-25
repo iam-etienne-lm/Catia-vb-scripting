@@ -1,5 +1,6 @@
 Option Explicit
 
+'Not working as is, dom issue with apply method to wrong class
 Sub CATMain()
 'On Error Resume Next
 'Dim specsAndGeomWindow1 As SpecsAndGeomWindow
