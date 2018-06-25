@@ -18,6 +18,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [3D matrix movement](http://www.coe.org/p/fo/et/thread=15346)   
 [clash evocation](https://stackoverflow.com/questions/34761639/is-it-possible-to-move-a-part-with-repect-to-constraints-in-product-using-catia) 
 [UI selection element3](https://www.eng-tips.com/viewthread.cfm?qid=427742)  
+[hybridgeometry guide](http://www.scripting4v5.com/additional-articles/geometry-creation-macro/)
 
 ### IDE + Console
 [monitoring variables](https://stackoverflow.com/questions/22580977/how-to-comfortably-monitor-variables-in-a-vbscript-during-development-process)  
