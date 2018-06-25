@@ -56,7 +56,9 @@ this is not necessary when using VBA.6 inside Catia
 [rdm structural limit ](https://pastel.archives-ouvertes.fr/tel-01218303/file/%5BBleyer%5D%20Methodes%20numeriques%20pour%20le%20calcul%20%C3%A0%20la%20rupture%20des%20structures%20de%20genie%20civil.pdf)  
 
 ## AM
-[Additive Manufacturing complete workflow](http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf)  
+[Additive Manufacturing complete workflow](http://publications.lib.chalmers.se/records/fulltext/213772/213772.pdf)
+## Molding
+[CATIA_V5 Reflect Line guide](http://yvonet.florent.free.fr/SERVEUR/COURS%20CATIA/CATIA%20Shape%20Design%20and%20Styling/V5S_F/Student/To_%20Print/EDU_CAT_EN_V5S_FF_V5R19_Lesson05_toprint.pdf)   
 # Tools IDE Console
 
 ## MSO DEVELOPPER MODE
