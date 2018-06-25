@@ -31,7 +31,8 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
 [Knowledge template ](http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf)  
 ### Interfaces
-[UI disscusion KBE](http://www.coe.org/p/fo/et/thread=15475)
+[UI disscusion KBE](http://www.coe.org/p/fo/et/thread=15475)    
+[BKT toolbar persistency](http://www.coe.org/p/fo/et/thread=13605) 
 
 
 ### IOR
