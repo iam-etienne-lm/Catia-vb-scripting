@@ -25,9 +25,9 @@ Dim oHb
 Dim oPoint
 
 InputObject(0) = "Edge"
-Set oCentre = CATIA.ActiveDocument.Selection
+            Set oCentre = CATIA.ActiveDocument.Selection 'the method current filter failed
 status = oCentre.SelectElement2(InputObject, "Select Circle", False)
-Set oTemp = oCentre.Item(1)
+              Set oTemp = oCentre.Item(1)                           'the method parent failed
 Set oRef = oTemp.Reference
 Set oPoint = oHsf.AddNewPointCenter(oRef)
 Set oHb = opart.HybridBodies.Add()
