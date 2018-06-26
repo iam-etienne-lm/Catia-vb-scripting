@@ -36,9 +36,9 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [Knowledge template ](http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf)  
 ### Interfaces
 [UI disscusion KBE](http://www.coe.org/p/fo/et/thread=15475)    
-[BKT toolbar persistency](http://www.coe.org/p/fo/et/thread=13605) 
-[BKT use case turbine](https://youtu.be/OQ_4FfktT9E)
-[BKT demo creattion](https://youtu.be/u1UwaI0l2lk)
+[BKT toolbar persistency](http://www.coe.org/p/fo/et/thread=13605)  
+[BKT use case turbine](https://youtu.be/OQ_4FfktT9E)    
+[BKT demo creattion](https://youtu.be/u1UwaI0l2lk)  
 
 
 ### IOR
