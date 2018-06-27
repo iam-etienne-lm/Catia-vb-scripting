@@ -38,11 +38,13 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [Catia rules case](https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules)  
 [Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
 [Knowledge template ](http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf)  
+[BKT function](https://www.youtube.com/watch?v=rYFB9248_aw)     
+[BKT ehanced rules instead of KWA ones](https://www.youtube.com/watch?v=F-pz5oPurjc)   
 ### Interfaces
 [UI disscusion KBE](http://www.coe.org/p/fo/et/thread=15475)    
 [BKT toolbar persistency](http://www.coe.org/p/fo/et/thread=13605)  
 [BKT use case turbine](https://youtu.be/OQ_4FfktT9E)    
-[BKT demo creattion](https://youtu.be/u1UwaI0l2lk)  
+[BKT demo creation](https://youtu.be/u1UwaI0l2lk)  
 
 
 ### IOR
