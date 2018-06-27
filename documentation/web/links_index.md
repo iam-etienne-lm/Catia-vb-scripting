@@ -30,8 +30,9 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 ## CATIA TOOLS
 ### Cat User Defined Fonction
 [User defined feature guide](http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20User-Defined%20Feature) 
+
 ### PowerCopy
-[Simple powerCopy](https://www.youtube.com/watch?v=1017uIfDoYY)
+[Simple powerCopy](https://www.youtube.com/watch?v=1017uIfDoYY)     
 ### Knowledge
 [Catia rules case](https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules)  
 [Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
