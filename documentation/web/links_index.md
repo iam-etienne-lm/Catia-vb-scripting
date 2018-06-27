@@ -33,6 +33,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 
 ### PowerCopy
 [Simple powerCopy](https://www.youtube.com/watch?v=1017uIfDoYY)     
+[piping PWC over wireframe](https://www.youtube.com/watch?v=tHpGpl5wdKw)        
 ### Knowledge
 [Catia rules case](https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules)  
 [Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
