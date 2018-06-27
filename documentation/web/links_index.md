@@ -12,7 +12,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [catscript & catvb are late bound unlike vba + element2 vs element3](https://www.eng-tips.com/viewthread.cfm?qid=370996)   
 
 
-## CVBA start
+### CVBA start
 [Get part name from product or active Document](http://cadxp.com/topic/14115-catia-vba-attaquer-une-part-par-son-nom-dinstance-en-vb/)  
 [Assembly and moving parts](http://catiadoc.free.fr/online/CAAScdPstUseCases/CAAPstAddComponent.htm)    
 [3D matrix movement](http://www.coe.org/p/fo/et/thread=15346)   
@@ -27,10 +27,12 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 [Error test](http://www.coe.org/p/fo/et/thread=12200) 
 ### Macro
 [use case](http://www.eng-tips.com/viewthread.cfm?qid=367929)  
-### CATIA TOOLS
-#### Cat User Defined Fonction
-[User defined feature guide](http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20User-Defined%20Feature)  
-#### Knowledge
+## CATIA TOOLS
+### Cat User Defined Fonction
+[User defined feature guide](http://catiadoc.free.fr/online/cfyugpkt_C2/cfyugpktudf0011.htm#Editing%20a%20User-Defined%20Feature) 
+### PowerCopy
+[Simple powerCopy](https://www.youtube.com/watch?v=1017uIfDoYY)
+### Knowledge
 [Catia rules case](https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules)  
 [Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
 [Knowledge template ](http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf)  
