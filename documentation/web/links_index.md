@@ -84,3 +84,4 @@ this is not necessary when using VBA.6 inside Catia
 [NPP++ NPPEXPORT x64 plugin](https://sourceforge.net/projects/npp-plugins/files/NppExec/NppExec%20Plugin%20v0.5.9.9%20dev/)     
 [NPP++ pluginmanager x64](https://github.com/bruderstein/nppPluginManager/releases/tag/v1.4.9)  
 [Code report in word](https://stackoverflow.com/questions/387453/how-do-you-display-code-snippets-in-ms-word-preserving-format-and-syntax-highlig)  
+[engineering figure & KWA](http://engineering-inventions.blogspot.com/2012/01/knowledgeware-design-table-and-macro-in.html)     
