@@ -27,7 +27,7 @@ Dim int_countindex As Integer
 int_countindex = products1.Count
 
 Dim str_lastpart As String
-str_lastpart = products1.Item(int_countindex).PartNumber
+str_lastpart = products1.Item(int_countindex).Name
 
 Dim product2 As Product
 'need to get the name of the latest inserted part
@@ -87,7 +87,7 @@ Set constraints1 = product1.Connections("CATIAConstraints")
 'ref_2bicreate1 = "Product1/Support Holes 14mm."& str_indexer"/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)"
 
 Dim reference1 As Reference
-Set reference1 = product1.CreateReferenceFromName("Product1/Support Holes 14mm." & str_indexer & "/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
+Set reference1 = product1.CreateReferenceFromName("Product1/" & str_lastpart & "/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
 
 Dim reference2 As Reference
 Set reference2 = product1.CreateReferenceFromName("")
@@ -112,7 +112,7 @@ Set constraints1 = product1.Connections("CATIAConstraints")
 Dim reference3 As Reference
 'edited naming
 'Set reference3 = product1.CreateReferenceFromName(str_ref3_content)
-Set reference3 = product1.CreateReferenceFromName("Product1/Support Holes 14mm." & str_indexer & "/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
+Set reference3 = product1.CreateReferenceFromName("Product1/" & str_lastpart & "/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
 
 Dim reference4 As Reference
 Set reference4 = product1.CreateReferenceFromName("")
