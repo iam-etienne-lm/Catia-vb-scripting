@@ -1,6 +1,7 @@
 Sub CATMain()
-
-'Naming instanciation required
+  
+  'edited for naming dot 1
+  'tobetested
 
 Dim productDocument1 As ProductDocument
 Set productDocument1 = CATIA.ActiveDocument
@@ -22,8 +23,11 @@ Set documents1 = CATIA.Documents
 Dim productDocument2 As ProductDocument
 Set productDocument2 = documents1.Add("Product")
 
+Dim str_indexer as string
+str_indexer=RandomString(5)
+
 Dim product2 As Product
-Set product2 = products1.Item("Support Holes 14mm.1")
+Set product2 = products1.Item("Support Holes 14mm."& str_indexer)
 
 Dim move1 As Move
 Set move1 = product2.Move
@@ -71,9 +75,13 @@ Set product1 = product1.ReferenceProduct
 Dim constraints1 As Constraints
 Set constraints1 = product1.Connections("CATIAConstraints")
 
-Dim reference1 As Reference
+
 'cette ligne
-Set reference1 = product1.CreateReferenceFromName("Product1/Support Holes 14mm.1/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
+'dim ref_2bicreate1 as string
+'ref_2bicreate1 = "Product1/Support Holes 14mm."& str_indexer"/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)"
+
+Dim reference1 As Reference
+Set reference1 = product1.CreateReferenceFromName("Product1/Support Holes 14mm."& str_indexer"/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
 
 Dim reference2 As Reference
 Set reference2 = product1.CreateReferenceFromName("")
@@ -94,7 +102,7 @@ Set constraints1 = product1.Connections("CATIAConstraints")
 
 Dim reference3 As Reference
 'cette ligne
-Set reference3 = product1.CreateReferenceFromName("Product1/Support Holes 14mm.1/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
+Set reference3 = product1.CreateReferenceFromName("Product1/Support Holes 14mm."& str_indexer"/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
 
 Dim reference4 As Reference
 Set reference4 = product1.CreateReferenceFromName("")
@@ -109,4 +117,37 @@ constraint1.Orientation = catCstOrientSame
 product1.Update
 
 End Sub
+
+Function RandomString(Length As Integer)
+'PURPOSE: Create a Randomized String of Characters
+'SOURCE: www.TheSpreadsheetGuru.com/the-code-vault
+'edited
+
+Dim CharacterBank As Variant
+Dim x As Long
+Dim str As String
+
+'Test Length Input
+  If Length < 1 Then
+    MsgBox "Length variable must be greater than 0"
+    Exit Function
+  End If
+
+CharacterBank = Array("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", _
+  "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", _
+  "y", "z", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B", "C", "D", "E", "F", "G", "H", _
+  "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", _
+  "W", "X", "Y", "Z")
+  
+
+'Randomly Select Characters One-by-One
+  For x = 1 To Length
+    Randomize
+    str = str & CharacterBank(Int((UBound(CharacterBank) - LBound(CharacterBank) + 1) * Rnd + LBound(CharacterBank)))
+  Next x
+
+'Output Randomly Generated String
+  RandomString = str
+
+End Function
 
