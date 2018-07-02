@@ -34,7 +34,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 ### PowerCopy
 [Simple powerCopy](https://www.youtube.com/watch?v=1017uIfDoYY)     
 [piping PWC over wireframe](https://www.youtube.com/watch?v=tHpGpl5wdKw)        
-### Knowledge
+### Knowledge KWE KWA BKT
 [Catia rules case](https://grabcad.com/questions/how-to-write-rules-in-catia-can-anyone-tell-me-what-is-the-syntax-to-write-rules)  
 [Knowledge Basic workbench guide](https://d2t1xqejof9utc.cloudfront.net/files/24023/EDU_CAT_EN_KBE_FF_V5R18_toprint.pdf?1374070986)  
 [Knowledge template ](http://www.cad-magazine.com/sites/default/files/trucs/pdf/les_knowledge_templates_sous-215.pdf)  
@@ -49,7 +49,7 @@ Index of websites to understand the tech around vb. Vb is the common denominator
 
 ### IOR
 [v5vb ior](https://v5vb.wordpress.com/2010/01/27/insert-object-resolution/#more-186)  
-### libraries
+### INFtif MECMOD libraries
 Local path to find a library
 
     C:\Program Files\Dassault Systemes\B21\win_b64\code\bin
