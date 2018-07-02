@@ -1,7 +1,4 @@
 Sub CATMain()
-  
-  'edited for naming dot 1
-  'tobetested
 
 Dim productDocument1 As ProductDocument
 Set productDocument1 = CATIA.ActiveDocument
@@ -23,11 +20,20 @@ Set documents1 = CATIA.Documents
 Dim productDocument2 As ProductDocument
 Set productDocument2 = documents1.Add("Product")
 
-Dim str_indexer as string
-str_indexer=RandomString(5)
+Dim str_indexer As String
+str_indexer = RandomString(3)
+
+Dim int_countindex As Integer
+int_countindex = products1.Count
+
+Dim str_lastpart As String
+str_lastpart = products1.Item(int_countindex).PartNumber
 
 Dim product2 As Product
-Set product2 = products1.Item("Support Holes 14mm."& str_indexer)
+'need to get the name of the latest inserted part
+'Set product2 = products1.Item("Support Holes 14mm." & str_indexer)
+'Set product2 = products1.Item("Support Holes 14mm.4")
+Set product2 = products1.Item(str_lastpart)
 
 Dim move1 As Move
 Set move1 = product2.Move
@@ -81,7 +87,7 @@ Set constraints1 = product1.Connections("CATIAConstraints")
 'ref_2bicreate1 = "Product1/Support Holes 14mm."& str_indexer"/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)"
 
 Dim reference1 As Reference
-Set reference1 = product1.CreateReferenceFromName("Product1/Support Holes 14mm."& str_indexer"/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
+Set reference1 = product1.CreateReferenceFromName("Product1/Support Holes 14mm." & str_indexer & "/!Selection_RSur:(Face:(Brp:(AxisSystem.1;2);None:();Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
 
 Dim reference2 As Reference
 Set reference2 = product1.CreateReferenceFromName("")
@@ -100,9 +106,13 @@ product1.Update
 
 Set constraints1 = product1.Connections("CATIAConstraints")
 
+'Dim str_ref3_content
+'str_ref3_content = "Product1/Support Holes 14mm." & str_indexer & "/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)"
+
 Dim reference3 As Reference
-'cette ligne
-Set reference3 = product1.CreateReferenceFromName("Product1/Support Holes 14mm."& str_indexer"/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
+'edited naming
+'Set reference3 = product1.CreateReferenceFromName(str_ref3_content)
+Set reference3 = product1.CreateReferenceFromName("Product1/Support Holes 14mm." & str_indexer & "/!Selection_REdge:(Edge:(Face:(Brp:(AxisSystem.1;1);None:();Cf11:());Face:(Brp:(AxisSystem.1;3);None:();Cf11:());None:(Limits1:();Limits2:());Cf11:());AxisSystem.1;InSameTool;Z0;G4252)")
 
 Dim reference4 As Reference
 Set reference4 = product1.CreateReferenceFromName("")
@@ -150,4 +160,6 @@ CharacterBank = Array("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", _
   RandomString = str
 
 End Function
+
+
 
