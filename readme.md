@@ -9,3 +9,4 @@ More details: This is WIP, mostly because the Catia macro recorder is unreliable
 * Remark, VB can be integrated to Power Copy / KWA / KWB.
 * Remark2 : This is potentially obsolete. Use case was for Aerospace Industry
 * Remark3 : Some good results can be reached without recoding tools in C.
+* Remark4 : KWB requires a much more expensive license
